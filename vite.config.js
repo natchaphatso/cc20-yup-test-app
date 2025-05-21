@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/cc20-yup-validate-form",
+  base: "/cc20-yup-test-app",
 });
